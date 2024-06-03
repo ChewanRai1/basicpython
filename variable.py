@@ -31,7 +31,7 @@
 # a = 1000
 # print(a)
 # def anotherfunction():
-#     global a
+#     global a   #accessing global var "a" using global
 #     print(a)
 #     a = "accessing the global varibale inside the function"
 #     print(a)
