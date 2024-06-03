@@ -19,7 +19,88 @@
 
 # packing and unpacking
 
-t =("softwarica", 25, "Chewan")   #packing
-(college, age, name) =t           #unpacking
+# t =("softwarica", 25, "Chewan")   #packing
+# (college, age, name) =t           #unpacking
 
-print(college)
+# print(college)
+
+#--------------------------------------------------------------------------------------------
+
+# Comparision
+# a = (1,7)
+# b = (2,5)
+
+# if (a>b):print("a is bigger")
+# else : print("b is bigger")
+
+#--------------------------------------------------------------------------------------------
+
+# Deletion of tuple a.
+# a = ("a", "b", "c", "d")
+## print(a)
+# del(a)
+# print(a)
+
+#--------------------------------------------------------------------------------------------
+# t = ("a", "b", "c", "d")
+# print(t[2:4])
+
+#--------------------------------------------------------------------------------------------
+
+# Dictionary
+# d = {"a": "Paul,25,USA"}
+
+# dict1 = {"usrname":"chewan_rai", "email": "kulung.che14@gmail.com", "contact": 9851034453}
+# dict2 = {"fistname": "Chewan", "lastname": "Rai"}
+
+# dict1.update(dict2)
+# print(dict1)
+
+#--------------------------------------------------------------------------------------------
+# Python Operators
+# Arithmetic Operators
+# x = 4
+# y = 5
+# print(x+y)
+
+# Comparision Operators
+# x = 4
+# y = 5
+# print('(x>y)is', x>y)
+# Output is (x>y)is False
+
+# Assignment Operators
+# num1 = 4
+# num2 = 5
+# total = num1+num2
+# total += num1
+# print(total)
+
+# Logical Operators
+# a = True
+# b = False
+# print("a and b is ", a and b)
+# print("a or b is ", a or b)
+# print("a not is ", not a)
+
+# Membership Operators
+# a = 9
+# b = 5
+# list = [1,2,3,4,5]
+# if(a in list):
+#     print("a is in given list")
+# else:
+#     print("a is not in the list")
+# if(b not in list):
+#     print("b is not in list")
+# else:
+#     print("b is in list")
+
+# Identity Opeartors
+# a = 10
+# b = 15
+# result = a is b
+# print(result)
+# result2= a is not b
+# print(result2)
+

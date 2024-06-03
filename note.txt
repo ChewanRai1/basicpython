@@ -1,0 +1,73 @@
+----String, Number, List, Tuple, Array, Dictionary-----
+Tuple are immutable
+
+Data of tuple cannot be delete 
+but whole Tuple can be delete
+
+Builtin Tuple are:
+all()
+any()
+enumerate()
+min()
+max()
+sorted()
+len()
+tuple()
+
+TUPLE OVER LIST
+1. Iteration in tuple are faster than list, Since Tuple are immutable
+2. Elements of tuple which are immutable can be used as key for dictionary, which is not possible in list
+3. Since they are immutable, it remaind write-protected.
+
+
+------------------------------------------------------------------------
+Dictionay are changable and unordered collection of data values that holds key-value pairs
+it is optimized, because every key maps its value.
+key is simgle Element
+Value can be list or list within list, numbers e.t.c
+
+No duplication in key
+Value can be of any type, while key must be immutable.
+Dict key are case sensitive.
+
+Dict builtin methods:
+dict.copy()
+dict.update()
+dict.items()
+dict.sort()
+len(dict)
+cmp(dict1, dict2)
+Str(dict)  =making printable string format
+
+clear()
+append()
+update()
+pop()
+
+------------------------------------------------------------------------
+Python Operators
+1. Arithmetic Operators
+2. Comparision Operators
+3. Assignment Operators
+    +=, -=, *=, /=
+4. Logical Operators
+    AND= True if both the elements are True
+    OR= True is either of  operand is true
+    NOT= True is operand is false
+5. Membership Operators
+    in
+    not in
+6. Identity Operators
+    -used to compare the memory location of two objects
+    - is, is not
+
+------------------------------------------------------------------------
+Array
+- Collection of common type of data structure having elements with same type
+- used to store the collectionof data.
+
+USES
+to use many variable of same type
+to store the collectionof data
+when you have to process the data dynamically
+Faster than the list as it uses less memory
