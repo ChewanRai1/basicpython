@@ -104,3 +104,23 @@
 # result2= a is not b
 # print(result2)
 
+#--------------------------------------------------------------------------------------------
+
+# Python Array
+# import array as array
+
+# arrayName = array.array("i",[1,2,3,4,5]) #i is typecode
+# print(arrayName[2])
+
+# #inserting
+# arrayName.insert(2, 9)
+# print(arrayName[2])
+
+#typecode
+# Other common type codes in the array module include:
+# f: Float (used for floating-point numbers)
+# d: Double (used for double-precision floating-point numbers)
+# b: Signed char (used for bytes)
+# B: Unsigned char (used for bytes with values 0 to 255)
+# I: Unsigned integer (used for positive integers)
+
