@@ -71,3 +71,4 @@ to use many variable of same type
 to store the collectionof data
 when you have to process the data dynamically
 Faster than the list as it uses less memory
+
